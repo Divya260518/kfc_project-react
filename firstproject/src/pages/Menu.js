@@ -141,7 +141,7 @@ useEffect(()=>{
               {cartProducts.find((Items)=>Items.id===item.id)?(
     
     <button
-     class="btn btn-danger"
+     class="btn btn-danger" 
      onClick={()=>{
        deleteCart(item);
      }}
