@@ -1,0 +1,48 @@
+.seens{
+    list-style: none;
+    text-decoration:black;
+    display: flex;
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px; */
+    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+ */
+}
+.seen1{
+    text-decoration:none; 
+     
+}
+/* .admin1{
+    width: 30%;
+    margin-right: 300px ;
+    margin-bottom: 400px;
+} */
+.admin2{
+    padding-bottom: 30px;
+}
+.admin3{
+    padding-bottom: 30px;
+}
+.admin4{
+    padding-bottom: 30px;
+}
+.admin5{
+    padding-bottom: 30px;
+}
+.admin6{
+    padding-bottom: 30px;
+}
+.admin :any-link{
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+/* }
+.admin1{
+    
+    /* padding: 50px; */
+    /* padding: 50px;
+    display: -ms-inline-grid;
+   grid-template-columns: auto;
+
+   gap: 20px; */
+ 

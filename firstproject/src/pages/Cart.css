@@ -1,0 +1,34 @@
+
+.details img {
+    width :50%;
+    margin-top: 20px;  
+}
+
+.details .card .details1 img:hover{
+    transition: 0.5s ease;
+    transform: scale(1);
+    cursor: pointer;
+}
+.details1 {
+text-align: center;
+
+
+
+}
+.details2 {
+    margin-bottom: 40px;
+    text-align: center;
+}
+.details {
+    margin-bottom: 40px;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    height: 80%;
+    margin-left: 190px;
+}
+.details3 {
+    background-image: url(../images/logo71.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,51 @@
+.update0 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+.update1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.update2{
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+.update3{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.update4{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.update5{
+    padding: 80px;
+    text-align: center;
+    
+}
+.update6{
+    margin-left: 300px;
+    padding: 30px;
+    margin-right: 300px;
+}
+.update9{
+    padding-left: 350px;
+    display: flex;
+}
+.table1  tr th{
+    padding: 30px;
+     display: -ms-inline-grid;
+    grid-template-columns: auto;
+   
+    /* gap: 20px; */
+}
+.table2{
+    margin-left: 150px; 
+    height: 60%;
+    margin-right: 200px;
+    
+}
+.table3{
+    margin-right: 30px;
+}

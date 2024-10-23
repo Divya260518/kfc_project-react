@@ -1,0 +1,23 @@
+.shoes {
+    margin-right: 2%;
+}
+.shoes1 {
+    margin-right: 3%;
+    
+}
+.seen2{
+    text-decoration: none;
+    
+}
+.navbar ul li a:hover{
+    color: aqua;
+    transform: scale(1.1);
+    
+}
+
+.hiiif{
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    margin-bottom: 300px;
+}

@@ -1,0 +1,27 @@
+.chicken4 ul li a {
+color: black;
+outline: none;
+text-decoration: none;
+list-style-type: none;
+padding: 0%;
+margin: 0;
+
+}
+.chicken4 ul li{
+    list-style-type: none;
+}
+.chicken4 .ships{
+    background-image: url(../images/logo69.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.chicken4 .ship{
+    position: fixed;
+}
+.chicken70 .hssc{
+    margin-top: 60px;
+}
+
+.chicken4 .hsse{
+    margin-top: 160px;
+}
